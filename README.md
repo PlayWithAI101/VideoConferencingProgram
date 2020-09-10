@@ -5,6 +5,7 @@
 - Python
 - Raspberrypi
 - PuTTY
+- mjpg-streamer
 - JSP
 - Apache Tomcat
 - TCP 프로토콜
