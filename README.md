@@ -39,32 +39,32 @@
 ## 3. 주요 기능
 ### A. 클라이언트 입장 : 연결된 소켓과 ip정보 딕셔너리에 추가 
 <img src="https://user-images.githubusercontent.com/62331803/92749824-70819680-f3c1-11ea-9ad7-86aa3dca4479.png" width="50%">
-<img src="https://user-images.githubusercontent.com/62331803/92749922-8c853800-f3c1-11ea-8b81-68c9bff77750.png" width="50%">
+<img src="https://user-images.githubusercontent.com/62331803/92749922-8c853800-f3c1-11ea-8b81-68c9bff77750.png" width="70%">
 <br>
 
 ### B. 발언신청 : 클라이언트가 발언신청을 하면, 서버에서 신청 조건을 확인하고 발언대기 큐에 추가
 <img src="https://user-images.githubusercontent.com/62331803/92750126-bc344000-f3c1-11ea-85a1-d442426c1e4b.png" width="50%">
-<img src="https://user-images.githubusercontent.com/62331803/92750228-d706b480-f3c1-11ea-99fb-5a87394ab911.png" width="50%">
+<img src="https://user-images.githubusercontent.com/62331803/92750228-d706b480-f3c1-11ea-99fb-5a87394ab911.png" width="80%">
 <br>
 
 ### C. 의견발언 
 <img src="https://user-images.githubusercontent.com/62331803/92750372-f6054680-f3c1-11ea-954b-9bffc8c7ff15.png" width="50%">
-<img src="https://user-images.githubusercontent.com/62331803/92750466-0b7a7080-f3c2-11ea-8d29-a92104a8e569.png" width="50%">
+<img src="https://user-images.githubusercontent.com/62331803/92750466-0b7a7080-f3c2-11ea-8d29-a92104a8e569.png" width="80%">
 <br>
 
 ### D. 발언중단 : 발언 중인 클라이언트가 할당된 시간 내에 발언이 모두 끝났을 경우 중단요청
 <img src="https://user-images.githubusercontent.com/62331803/92750528-1b925000-f3c2-11ea-82c9-494618cbb13e.png" width="50%">
-<img src="https://user-images.githubusercontent.com/62331803/92750594-31077a00-f3c2-11ea-88e2-e7bceadb8e29.png" width="50%">
+<img src="https://user-images.githubusercontent.com/62331803/92750594-31077a00-f3c2-11ea-88e2-e7bceadb8e29.png" width="80%">
 <br>
 
 ### E. 발언취소 : 클라이언트가 발언하겠다고 신청한 내역을 취소하고 싶을 때 취소요청
 <img src="https://user-images.githubusercontent.com/62331803/92750670-47153a80-f3c2-11ea-9478-150bb27feff1.png" width="50%">
-<img src="https://user-images.githubusercontent.com/62331803/92750778-5eecbe80-f3c2-11ea-8e7d-cc15c60143ad.png" width="50%">
+<img src="https://user-images.githubusercontent.com/62331803/92750778-5eecbe80-f3c2-11ea-8e7d-cc15c60143ad.png" width="80%">
 <br>
 
 ### F. 클라이언트 퇴장 : 퇴장 요청한 클라이언트의 소켓과 ip정보 딕셔너리에서 제거
 <img src="https://user-images.githubusercontent.com/62331803/92750854-6d3ada80-f3c2-11ea-8763-dba4e169523d.png" width="50%">
-<img src="https://user-images.githubusercontent.com/62331803/92750935-7f1c7d80-f3c2-11ea-8f52-d9f1162adf70.png" width="50%">
+<img src="https://user-images.githubusercontent.com/62331803/92750935-7f1c7d80-f3c2-11ea-8f52-d9f1162adf70.png" width="80%">
 <br>
 
 ## 4. 시연
